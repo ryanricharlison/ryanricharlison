@@ -1,10 +1,10 @@
-# Ryan Richarlison
-## Olá, meu nome é Ryan Richarlison.
+# Olá, meu nome é Ryan Richarlison.
 
-**Minhas linguaguens de programação preferidas**
+**Minhas linguaguens preferidas**
 - Python3
 - Javascript
 - PHP
+- CSS3 + HTML5
 
 Sou **Fullstack** e **GameDev**.
-Estudo redes wireless e segurança da informação.
+Estudo **redes wireless** e **segurança da informação**.
