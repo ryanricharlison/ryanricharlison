@@ -1,6 +1,6 @@
 # Olá, meu nome é Ryan Richarlison.
 
-**Minhas linguaguens preferidas**
+**Minhas linguaguens preferidas são**
 - Python3
 - Javascript
 - PHP
@@ -8,3 +8,5 @@
 
 Sou **Fullstack** e **GameDev**.
 Estudo **redes wireless** e **segurança da informação**.
+
+Atualmente ultilizo [Debian](https://debian.org/) e [Linux Mint](https://linuxmint.com).
