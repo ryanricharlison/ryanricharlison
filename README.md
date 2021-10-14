@@ -11,4 +11,4 @@ Estudo **redes wireless** e **segurança da informação**.
 
 Atualmente ultilizo [Debian](https://debian.org/) e [Linux Mint](https://linuxmint.com).
 
-Ultilizo [Godot](https://godotengine.org/) para desenvolvimento de jogos.
+E ultilizo a engine [Godot](https://godotengine.org/) para desenvolvimento de jogos.
