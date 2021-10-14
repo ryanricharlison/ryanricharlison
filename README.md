@@ -13,6 +13,6 @@ Atualmente ultilizo [Debian](https://debian.org/) e [Linux Mint](https://linuxmi
 
 E ultilizo a engine [Godot](https://godotengine.org/) para desenvolvimento de jogos.
 
-<img src="linux-image.jpeg" >
+<img src="linux-image.jpeg" width="500" >
 
 **Fim do documento.**
