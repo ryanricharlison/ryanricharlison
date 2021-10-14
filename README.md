@@ -3,7 +3,7 @@
 **Minhas linguaguens preferidas são**
 - Python3
 - Javascript
-- PHP7
+- PHP
 - CSS3 + HTML5
 
 Sou **Fullstack** e **GameDev**.
