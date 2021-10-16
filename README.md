@@ -1,9 +1,9 @@
 # Olá, meu nome é [Ryan Richarlison](https://www.instagram.com/_ryanricharlison/).
 
 **Minhas linguaguens preferidas são**
-- Python3
+- [Python3](https://www.python.org/)
 - Javascript
-- PHP
+- [PHP](https://www.php.net/)
 - CSS3 + HTML5
 
 Sou **Fullstack** e **GameDev**.
