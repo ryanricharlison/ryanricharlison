@@ -3,7 +3,10 @@
 <table>
 <tr>
 <td>
-  Meu perfil
+  Full Stack
+</td>
+<td>
+  Game Dev
 </td>
 </tr>
 </table>
