@@ -11,7 +11,7 @@
 ### Sobre Mim
 
 Olá, meu nome é Ryan Richarlison, estudo **segurança da informação** e **programação**.
-Meu instagram [@\_ryanricharlison](https://www.instagram.com/_ryanricharlison/).
+Meu instagram @[\_ryanricharlison](https://www.instagram.com/_ryanricharlison/).
 
 ## Principais Lingaguens de Programação
 
