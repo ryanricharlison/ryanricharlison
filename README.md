@@ -26,4 +26,4 @@ Meu instagram [@\_ryanricharlison](https://www.instagram.com/_ryanricharlison/).
 ## O que eu faço?
 - Desenvolvo jogos
 - Estudo segurança da informação
-- Fullstack
+- Sou Fullstack
