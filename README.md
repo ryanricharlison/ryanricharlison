@@ -1,18 +1,26 @@
-# Olá, meu nome é [Ryan Richarlison](https://www.instagram.com/_ryanricharlison/).
+# Ryan Richarlison
 
-**Minhas linguaguens preferidas são**
-- [Python3](https://www.python.org/)
-- Javascript
-- [PHP](https://www.php.net/)
-- CSS3 + HTML5
+<table>
+<tr>
+<td>
+  Meu perfil
+</td>
+</tr>
+</table>
 
-Sou **Fullstack** e **GameDev**.
-Estudo **redes wireless** e **segurança da informação**.
+### Sobre Mim
 
-Atualmente ultilizo [Debian](https://debian.org/) e [Linux Mint](https://linuxmint.com).
+Olá, meu nome é Ryan Richarlison, estudo **segurança da informação** e **programação**.
+Meu instagram [@\_ryanricharlison](https://www.instagram.com/_ryanricharlison/).
 
-E ultilizo a engine [Godot](https://godotengine.org/) para desenvolvimento de jogos.
+## Principais Lingaguens de Programação
 
-<img src="linux-image.jpeg" width="500" >
+- [Python](https://www.python.org/) - *Ultilizo Python há 2 anos.*
+- [Javascript]() - *Ultilizo Javascript há 1 ano para backend e frontend.*
+- [Godot](https://godotengine.org/) - *Uso Godot há alguns meses para desenvolvimento de jogos.*
 
-**Fim do documento.**
+
+## O que eu faço?
+- Desenvolvo jogos
+- Estudo segurança da informação
+- Fullstack
