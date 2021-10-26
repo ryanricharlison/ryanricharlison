@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/82615245?s=400&u=74dbb76ad49845708b8b8f72affde26f219efd14&v=4">
+<img src="https://avatars.githubusercontent.com/u/82615245?s=400&u=74dbb76ad49845708b8b8f72affde26f219efd14&v=4" width="100">
 
 ### Olá 👋
 Eu desenvolvo jogos, sou fullstack e estudo cibersegurança.
