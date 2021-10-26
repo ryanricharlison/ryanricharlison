@@ -4,7 +4,7 @@
 Eu desenvolvo jogos, sou fullstack e estudo cibersegurança.
 - 🔭 Eu não trabalho profissionalmente, apenas estudo.
 - 🌱 Sei várias linguaguens e pretendendo aprender Perl e Java.
-- 🐧 Amo GNU/Linux e atualmente uso o sistema operacionais Debian e PureOS.
+- 🐧 Amo GNU/Linux e atualmente uso o sistemas operacionais Debian e PureOS.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ryanricharlison)
 
